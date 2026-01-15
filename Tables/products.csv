@@ -1,0 +1,356 @@
+"product_id";"product_name";"category";"price";"stock_quantity";"discount"
+1;"Laptop Pro 15";"Laptop";1500.0;100;0.0
+2;"Smartphone X";"Smartphone";800.0;200;0.0
+3;"Wireless Mouse";"Accessories";25.0;500;0.0
+4;"USB-C Charger";"Accessories";20.0;300;0.0
+5;"Gaming Laptop";"Laptop";2000.0;50;10.0
+6;"Budget Smartphone";"Smartphone";300.0;150;5.0
+7;"Noise Cancelling Headphones";"Accessories";150.0;120;15.0
+8;"Wireless Earphones";"Accessories";100.0;100;10.0
+9;"Super Keyboard Gen3";"Gadgets";243.0;493;16.0
+10;"Fast Camera V2";"Computers";2239.0;41;19.0
+11;"Pro Keyboard X";"Computers";1229.0;163;2.0
+12;"Eco Tablet Gen3";"Smart Home";56.0;302;26.0
+13;"Mega Mouse X";"Accessories";1570.0;53;17.0
+14;"Mega Monitor Elite";"Electronics";1817.0;271;13.0
+15;"Hyper Tablet Prime";"Accessories";624.0;254;21.0
+16;"Ultra Mouse Lite";"Electronics";2052.0;261;2.0
+17;"Slim Phone V2";"Electronics";1273.0;136;22.0
+18;"Pro Phone Prime";"Computers";1847.0;250;6.0
+19;"Super Monitor X";"Electronics";1088.0;411;22.0
+20;"Smart Watch Elite";"Smart Home";1944.0;137;28.0
+21;"Pro Keyboard Elite";"Electronics";1237.0;222;19.0
+22;"Pro Tablet X";"Gadgets";1618.0;266;19.0
+23;"Mega Mouse Max";"Smart Home";37.0;189;23.0
+24;"Hyper Mouse Max";"Computers";454.0;359;29.0
+25;"Hyper Printer Max";"Gadgets";1225.0;320;19.0
+26;"Eco Tablet Prime";"Electronics";406.0;387;9.0
+27;"Smart Mouse V2";"Smart Home";922.0;90;21.0
+28;"Ultra Mouse 2024";"Electronics";799.0;75;21.0
+29;"Smart Camera Elite";"Gadgets";2443.0;191;27.0
+30;"Eco Keyboard Elite";"Electronics";1743.0;143;7.0
+31;"Super Camera V2";"Gadgets";2217.0;393;5.0
+32;"Mega Drone Prime";"Accessories";846.0;13;1.0
+33;"Ultra Drone Lite";"Gadgets";178.0;32;1.0
+34;"Pro Watch Gen3";"Electronics";792.0;134;9.0
+35;"Slim Watch Max";"Gadgets";1602.0;221;6.0
+36;"Hyper Monitor Lite";"Computers";411.0;454;29.0
+37;"Smart Watch Plus";"Computers";2134.0;40;22.0
+38;"Mega Camera Pro";"Electronics";2348.0;154;19.0
+39;"Gaming Printer Pro";"Computers";1089.0;387;14.0
+40;"Ultra Keyboard Elite";"Computers";2272.0;252;21.0
+41;"Ultra Laptop Gen3";"Computers";1266.0;145;25.0
+42;"Eco Camera Gen3";"Accessories";231.0;312;22.0
+43;"Pro Camera Prime";"Accessories";2371.0;320;8.0
+44;"Super Printer X";"Gadgets";1010.0;212;25.0
+45;"Fast Monitor X";"Smart Home";767.0;460;18.0
+46;"Gaming Printer V2";"Gadgets";1882.0;35;0.0
+47;"Fast Mouse 2024";"Smart Home";936.0;488;20.0
+48;"Super Drone Prime";"Gadgets";2215.0;395;6.0
+49;"Hyper Tablet Elite";"Accessories";698.0;184;28.0
+50;"Mega Monitor Gen3";"Computers";732.0;177;24.0
+51;"Ultra Phone Prime";"Gadgets";1040.0;387;16.0
+52;"Super Camera V2";"Smart Home";1998.0;21;22.0
+53;"Mega Printer V2";"Gadgets";2251.0;381;0.0
+54;"Fast Mouse 2024";"Computers";1548.0;358;19.0
+55;"Ultra Camera Prime";"Electronics";709.0;173;24.0
+56;"Pro Printer Max";"Accessories";1557.0;470;22.0
+57;"Pro Printer Gen3";"Computers";1752.0;62;13.0
+58;"Fast Tablet V2";"Gadgets";2176.0;281;3.0
+59;"Pro Laptop 2024";"Electronics";1229.0;207;15.0
+60;"Eco Laptop Gen3";"Smart Home";555.0;211;11.0
+61;"Mega Phone Pro";"Gadgets";1910.0;174;11.0
+62;"Fast Keyboard Lite";"Gadgets";181.0;55;7.0
+63;"Pro Monitor Gen3";"Smart Home";2255.0;457;23.0
+64;"Smart Phone Plus";"Electronics";1998.0;347;0.0
+65;"Fast Printer Gen3";"Electronics";507.0;321;16.0
+66;"Hyper Monitor Pro";"Computers";1898.0;344;2.0
+67;"Eco Printer Pro";"Smart Home";360.0;378;8.0
+68;"Ultra Printer Max";"Accessories";869.0;340;8.0
+69;"Eco Keyboard V2";"Electronics";604.0;41;18.0
+70;"Slim Mouse X";"Gadgets";1474.0;169;25.0
+71;"Smart Camera Max";"Computers";710.0;100;2.0
+72;"Slim Printer Plus";"Gadgets";1892.0;107;21.0
+73;"Pro Phone 2024";"Gadgets";703.0;383;27.0
+74;"Gaming Printer Pro";"Electronics";1469.0;386;0.0
+75;"Slim Watch Lite";"Electronics";1763.0;44;7.0
+76;"Pro Mouse Pro";"Electronics";534.0;252;24.0
+77;"Super Mouse X";"Gadgets";2493.0;368;18.0
+78;"Fast Drone 2024";"Accessories";2143.0;276;3.0
+79;"Fast Mouse V2";"Computers";1070.0;58;6.0
+80;"Slim Mouse 2024";"Accessories";249.0;236;29.0
+81;"Super Printer Plus";"Electronics";1830.0;210;24.0
+82;"Fast Tablet Plus";"Computers";106.0;425;1.0
+83;"Hyper Laptop X";"Electronics";459.0;395;9.0
+84;"Gaming Mouse Prime";"Electronics";2203.0;446;22.0
+85;"Ultra Tablet 2024";"Smart Home";85.0;226;2.0
+86;"Ultra Monitor Max";"Electronics";2150.0;108;12.0
+87;"Super Keyboard Gen3";"Electronics";1620.0;373;21.0
+88;"Gaming Camera Prime";"Gadgets";994.0;269;12.0
+89;"Super Mouse 2024";"Accessories";1582.0;206;2.0
+90;"Smart Phone Lite";"Computers";1165.0;97;14.0
+91;"Fast Monitor Gen3";"Smart Home";610.0;222;12.0
+92;"Hyper Drone Plus";"Electronics";1342.0;252;25.0
+93;"Hyper Watch V2";"Smart Home";483.0;209;13.0
+94;"Pro Drone Max";"Accessories";1114.0;24;24.0
+95;"Pro Camera Elite";"Computers";605.0;479;29.0
+96;"Ultra Laptop Prime";"Computers";255.0;53;4.0
+97;"Eco Phone V2";"Accessories";623.0;238;16.0
+98;"Eco Mouse Plus";"Computers";1275.0;303;12.0
+99;"Gaming Laptop Elite";"Computers";1558.0;57;18.0
+100;"Slim Keyboard Gen3";"Accessories";509.0;74;1.0
+101;"Fast Monitor X";"Accessories";991.0;490;19.0
+102;"Gaming Drone Pro";"Computers";2340.0;236;14.0
+103;"Pro Camera Prime";"Accessories";1990.0;478;9.0
+104;"Hyper Printer Plus";"Gadgets";1252.0;84;7.0
+105;"Slim Mouse Plus";"Gadgets";94.0;243;7.0
+106;"Slim Keyboard Gen3";"Accessories";396.0;492;11.0
+107;"Fast Drone V2";"Electronics";1153.0;32;26.0
+108;"Smart Keyboard Max";"Smart Home";574.0;217;12.0
+109;"Hyper Drone Max";"Smart Home";1148.0;193;14.0
+110;"Gaming Phone Max";"Smart Home";617.0;259;23.0
+111;"Gaming Mouse V2";"Gadgets";839.0;177;20.0
+112;"Eco Watch Lite";"Accessories";2189.0;95;7.0
+113;"Hyper Printer V2";"Electronics";2153.0;439;22.0
+114;"Ultra Monitor Max";"Accessories";779.0;234;10.0
+115;"Gaming Laptop Max";"Electronics";1519.0;217;8.0
+116;"Ultra Printer Plus";"Accessories";1159.0;330;25.0
+117;"Smart Camera Lite";"Accessories";2052.0;454;0.0
+118;"Gaming Camera X";"Smart Home";820.0;434;8.0
+119;"Slim Laptop Lite";"Smart Home";1461.0;64;24.0
+120;"Hyper Monitor Max";"Electronics";680.0;508;5.0
+121;"Fast Tablet Lite";"Smart Home";2189.0;209;11.0
+122;"Hyper Laptop Gen3";"Electronics";2517.0;406;29.0
+123;"Eco Monitor Pro";"Computers";1921.0;368;8.0
+124;"Gaming Camera X";"Computers";1440.0;329;14.0
+125;"Super Tablet Max";"Computers";2462.0;441;11.0
+126;"Gaming Mouse Elite";"Gadgets";2064.0;353;29.0
+127;"Slim Tablet Gen3";"Smart Home";2437.0;198;29.0
+128;"Hyper Printer Plus";"Gadgets";2323.0;506;6.0
+129;"Pro Mouse Gen3";"Electronics";1297.0;30;20.0
+130;"Smart Watch 2024";"Accessories";2355.0;419;8.0
+131;"Fast Phone Max";"Smart Home";841.0;442;10.0
+132;"Ultra Mouse Lite";"Electronics";2198.0;400;8.0
+133;"Ultra Drone Plus";"Smart Home";143.0;223;29.0
+134;"Mega Monitor Prime";"Gadgets";1721.0;466;15.0
+135;"Slim Printer Elite";"Gadgets";1692.0;35;7.0
+136;"Pro Laptop Plus";"Electronics";1024.0;495;19.0
+137;"Gaming Drone V2";"Smart Home";1125.0;340;29.0
+138;"Fast Laptop Pro";"Computers";1506.0;50;18.0
+139;"Slim Keyboard Pro";"Accessories";842.0;258;15.0
+140;"Pro Mouse Elite";"Gadgets";1967.0;269;7.0
+141;"Hyper Camera Prime";"Gadgets";857.0;156;13.0
+142;"Eco Laptop X";"Accessories";89.0;240;6.0
+143;"Hyper Printer Max";"Gadgets";57.0;342;8.0
+144;"Eco Watch Gen3";"Accessories";2079.0;235;23.0
+145;"Super Mouse Prime";"Smart Home";94.0;159;12.0
+146;"Ultra Keyboard X";"Computers";891.0;346;9.0
+147;"Super Camera Gen3";"Electronics";209.0;104;21.0
+148;"Pro Printer Pro";"Electronics";489.0;186;6.0
+149;"Fast Watch Gen3";"Gadgets";862.0;48;11.0
+150;"Mega Phone Max";"Electronics";743.0;18;6.0
+151;"Pro Keyboard 2024";"Gadgets";1524.0;403;3.0
+152;"Gaming Watch V2";"Smart Home";1025.0;221;27.0
+153;"Smart Laptop Plus";"Gadgets";2081.0;276;5.0
+154;"Gaming Tablet Prime";"Electronics";2278.0;40;17.0
+155;"Hyper Watch Max";"Computers";321.0;285;11.0
+156;"Gaming Keyboard Plus";"Computers";310.0;173;8.0
+157;"Eco Keyboard Prime";"Gadgets";1771.0;454;10.0
+158;"Pro Tablet Prime";"Smart Home";534.0;26;16.0
+159;"Mega Mouse Prime";"Electronics";2248.0;484;2.0
+160;"Super Monitor Plus";"Accessories";2037.0;26;22.0
+161;"Mega Camera Max";"Gadgets";1631.0;239;10.0
+162;"Eco Phone X";"Accessories";1922.0;105;20.0
+163;"Slim Phone V2";"Electronics";887.0;323;2.0
+164;"Super Mouse Plus";"Gadgets";2444.0;100;29.0
+165;"Eco Watch Lite";"Gadgets";1142.0;355;3.0
+166;"Eco Printer Plus";"Computers";779.0;325;7.0
+167;"Gaming Printer V2";"Computers";385.0;407;16.0
+168;"Gaming Printer Gen3";"Smart Home";1487.0;20;10.0
+169;"Mega Watch Elite";"Smart Home";203.0;276;13.0
+170;"Mega Drone X";"Smart Home";1707.0;233;6.0
+171;"Hyper Printer Max";"Accessories";1469.0;409;7.0
+172;"Slim Laptop Max";"Accessories";1042.0;17;25.0
+173;"Ultra Monitor Plus";"Accessories";937.0;81;18.0
+174;"Mega Monitor Prime";"Computers";592.0;160;24.0
+175;"Ultra Keyboard Pro";"Computers";968.0;26;0.0
+176;"Pro Watch Gen3";"Smart Home";2098.0;109;14.0
+177;"Slim Printer X";"Accessories";1585.0;59;18.0
+178;"Hyper Phone X";"Electronics";1652.0;363;17.0
+179;"Hyper Watch Plus";"Electronics";1568.0;409;4.0
+180;"Smart Phone Plus";"Electronics";1391.0;322;14.0
+181;"Super Phone Prime";"Gadgets";1948.0;139;29.0
+182;"Ultra Drone Max";"Smart Home";392.0;36;24.0
+183;"Fast Watch 2024";"Accessories";433.0;406;14.0
+184;"Fast Keyboard Lite";"Gadgets";2427.0;309;3.0
+185;"Hyper Keyboard Elite";"Smart Home";2423.0;81;24.0
+186;"Hyper Watch Pro";"Accessories";1216.0;387;10.0
+187;"Eco Tablet Gen3";"Electronics";759.0;81;24.0
+188;"Mega Printer Elite";"Gadgets";2053.0;291;11.0
+189;"Smart Camera Gen3";"Accessories";576.0;86;2.0
+190;"Pro Camera X";"Smart Home";432.0;107;14.0
+191;"Slim Laptop Prime";"Gadgets";2011.0;247;29.0
+192;"Eco Mouse X";"Smart Home";709.0;335;12.0
+193;"Ultra Laptop V2";"Accessories";2060.0;14;17.0
+194;"Fast Printer Elite";"Gadgets";709.0;321;8.0
+195;"Super Phone Lite";"Smart Home";51.0;295;24.0
+196;"Gaming Keyboard 2024";"Gadgets";1809.0;134;2.0
+197;"Hyper Monitor Gen3";"Gadgets";1799.0;396;21.0
+198;"Gaming Keyboard Max";"Computers";1150.0;502;17.0
+199;"Fast Camera Lite";"Accessories";2049.0;465;3.0
+200;"Slim Printer Plus";"Gadgets";1958.0;151;2.0
+201;"Super Laptop V2";"Accessories";1247.0;283;7.0
+202;"Mega Laptop 2024";"Computers";1000.0;350;6.0
+203;"Pro Drone Max";"Accessories";1847.0;468;11.0
+204;"Smart Camera Pro";"Accessories";1713.0;304;27.0
+205;"Hyper Watch Pro";"Accessories";1834.0;396;20.0
+206;"Ultra Mouse Max";"Gadgets";74.0;371;16.0
+207;"Super Tablet Max";"Gadgets";541.0;271;29.0
+208;"Gaming Camera 2024";"Electronics";536.0;348;22.0
+209;"Hyper Laptop X";"Accessories";1678.0;80;21.0
+210;"Ultra Drone X";"Electronics";591.0;475;29.0
+211;"Pro Monitor Max";"Accessories";252.0;312;22.0
+212;"Fast Monitor Prime";"Computers";1870.0;286;16.0
+213;"Pro Drone Pro";"Gadgets";2309.0;20;10.0
+214;"Hyper Mouse Max";"Smart Home";33.0;172;18.0
+215;"Pro Mouse Max";"Gadgets";1052.0;236;0.0
+216;"Hyper Camera Prime";"Electronics";811.0;281;22.0
+217;"Ultra Laptop Pro";"Computers";889.0;203;26.0
+218;"Smart Drone Prime";"Computers";752.0;259;18.0
+219;"Super Watch Elite";"Computers";134.0;81;17.0
+220;"Eco Mouse Lite";"Accessories";2510.0;165;17.0
+221;"Fast Camera Max";"Smart Home";2049.0;269;4.0
+222;"Smart Drone X";"Electronics";1094.0;375;11.0
+223;"Mega Watch Pro";"Computers";1451.0;432;15.0
+224;"Pro Mouse V2";"Computers";1843.0;205;22.0
+225;"Mega Printer Gen3";"Electronics";144.0;14;26.0
+226;"Eco Laptop V2";"Gadgets";1254.0;497;11.0
+227;"Pro Watch Lite";"Gadgets";956.0;206;25.0
+228;"Pro Laptop X";"Electronics";2413.0;105;2.0
+229;"Slim Printer Lite";"Smart Home";2009.0;509;18.0
+230;"Pro Monitor V2";"Smart Home";390.0;395;12.0
+231;"Hyper Monitor Gen3";"Gadgets";533.0;314;12.0
+232;"Gaming Tablet Lite";"Smart Home";722.0;443;14.0
+233;"Slim Drone 2024";"Computers";34.0;453;12.0
+234;"Eco Camera Elite";"Smart Home";47.0;141;8.0
+235;"Mega Monitor Gen3";"Smart Home";2005.0;267;5.0
+236;"Eco Mouse V2";"Gadgets";1296.0;44;24.0
+237;"Slim Camera Pro";"Electronics";389.0;171;5.0
+238;"Slim Printer 2024";"Smart Home";707.0;255;18.0
+239;"Mega Keyboard 2024";"Accessories";1149.0;90;13.0
+240;"Hyper Keyboard 2024";"Accessories";2413.0;480;24.0
+241;"Gaming Watch V2";"Computers";184.0;488;17.0
+242;"Pro Laptop Prime";"Computers";422.0;216;17.0
+243;"Mega Mouse Elite";"Gadgets";720.0;357;19.0
+244;"Pro Mouse Lite";"Accessories";536.0;134;18.0
+245;"Gaming Printer Elite";"Accessories";401.0;363;2.0
+246;"Smart Phone Max";"Accessories";261.0;277;11.0
+247;"Gaming Mouse Pro";"Electronics";2069.0;448;27.0
+248;"Pro Tablet 2024";"Electronics";1591.0;67;20.0
+249;"Ultra Keyboard Prime";"Gadgets";1419.0;164;26.0
+250;"Eco Keyboard X";"Electronics";2182.0;137;20.0
+251;"Mega Phone V2";"Computers";2115.0;10;14.0
+252;"Eco Drone Pro";"Computers";803.0;359;16.0
+253;"Mega Drone Gen3";"Accessories";935.0;475;16.0
+254;"Fast Tablet 2024";"Accessories";1521.0;170;24.0
+255;"Pro Camera 2024";"Accessories";2263.0;323;13.0
+256;"Gaming Tablet Plus";"Computers";1463.0;425;12.0
+257;"Mega Camera Lite";"Electronics";1595.0;402;0.0
+258;"Hyper Camera X";"Gadgets";1264.0;474;4.0
+259;"Fast Keyboard Lite";"Accessories";1800.0;265;12.0
+260;"Super Mouse X";"Gadgets";572.0;384;2.0
+261;"Ultra Laptop Max";"Computers";1943.0;462;6.0
+262;"Gaming Watch V2";"Computers";2170.0;30;18.0
+263;"Pro Tablet Prime";"Electronics";2294.0;55;21.0
+264;"Gaming Laptop 2024";"Smart Home";630.0;178;28.0
+265;"Hyper Camera 2024";"Electronics";1898.0;346;3.0
+266;"Super Monitor X";"Electronics";1977.0;206;18.0
+267;"Slim Laptop Pro";"Computers";1972.0;461;5.0
+268;"Ultra Tablet Gen3";"Smart Home";257.0;482;13.0
+269;"Gaming Mouse V2";"Gadgets";2204.0;351;23.0
+270;"Fast Tablet Lite";"Accessories";681.0;232;13.0
+271;"Slim Printer X";"Accessories";2263.0;160;24.0
+272;"Ultra Keyboard V2";"Smart Home";1266.0;434;22.0
+273;"Ultra Laptop Elite";"Accessories";430.0;373;4.0
+274;"Super Monitor Prime";"Computers";1099.0;136;28.0
+275;"Pro Keyboard 2024";"Accessories";24.0;87;23.0
+276;"Gaming Mouse Gen3";"Electronics";909.0;193;23.0
+277;"Hyper Keyboard Elite";"Smart Home";335.0;437;27.0
+278;"Fast Printer X";"Accessories";1249.0;249;27.0
+279;"Ultra Printer Max";"Electronics";1343.0;104;10.0
+280;"Smart Printer Plus";"Accessories";36.0;493;24.0
+281;"Ultra Keyboard V2";"Electronics";1604.0;376;22.0
+282;"Mega Camera Lite";"Electronics";447.0;410;14.0
+283;"Pro Camera X";"Computers";362.0;377;7.0
+284;"Pro Laptop 2024";"Computers";944.0;271;15.0
+285;"Fast Tablet Max";"Accessories";418.0;493;10.0
+286;"Fast Keyboard Max";"Electronics";620.0;393;3.0
+287;"Smart Printer 2024";"Computers";2112.0;146;25.0
+288;"Eco Drone Lite";"Gadgets";1318.0;35;20.0
+289;"Gaming Mouse Elite";"Gadgets";576.0;231;16.0
+290;"Eco Monitor Gen3";"Accessories";1716.0;172;17.0
+291;"Fast Phone Plus";"Accessories";100.0;12;27.0
+292;"Mega Monitor X";"Smart Home";2041.0;63;3.0
+293;"Smart Camera V2";"Computers";2253.0;54;22.0
+294;"Super Keyboard Elite";"Gadgets";1261.0;367;2.0
+295;"Smart Phone V2";"Smart Home";1017.0;229;29.0
+296;"Mega Monitor Gen3";"Computers";2282.0;342;18.0
+297;"Pro Monitor V2";"Accessories";2138.0;50;25.0
+298;"Pro Drone Max";"Accessories";1530.0;204;3.0
+299;"Eco Phone Elite";"Smart Home";2179.0;386;5.0
+300;"Mega Laptop 2024";"Electronics";2360.0;198;2.0
+301;"Smart Phone Pro";"Gadgets";2345.0;69;24.0
+302;"Mega Printer Prime";"Computers";1693.0;138;8.0
+303;"Super Watch Prime";"Gadgets";682.0;11;6.0
+304;"Pro Drone Max";"Electronics";559.0;361;26.0
+305;"Smart Laptop Max";"Accessories";255.0;321;24.0
+306;"Smart Printer Elite";"Computers";1055.0;115;24.0
+307;"Eco Laptop Prime";"Smart Home";836.0;74;19.0
+308;"Fast Laptop Plus";"Gadgets";297.0;400;17.0
+309;"Super Drone Max";"Electronics";2009.0;420;21.0
+310;"Ultra Keyboard Elite";"Electronics";1277.0;231;21.0
+311;"Ultra Camera Gen3";"Smart Home";1503.0;83;28.0
+312;"Gaming Camera X";"Computers";1166.0;96;14.0
+313;"Fast Watch 2024";"Electronics";2133.0;64;0.0
+314;"Hyper Laptop Elite";"Gadgets";2220.0;467;28.0
+315;"Fast Camera Lite";"Electronics";1204.0;78;7.0
+316;"Fast Drone Prime";"Accessories";271.0;215;22.0
+317;"Super Keyboard Pro";"Gadgets";1846.0;115;25.0
+318;"Mega Camera 2024";"Accessories";2480.0;24;5.0
+319;"Slim Camera Pro";"Electronics";650.0;380;28.0
+320;"Super Camera Pro";"Electronics";83.0;398;24.0
+321;"Hyper Tablet Prime";"Smart Home";2056.0;177;6.0
+322;"Ultra Phone V2";"Electronics";79.0;280;19.0
+323;"Super Camera Gen3";"Electronics";1692.0;384;22.0
+324;"Eco Phone X";"Smart Home";673.0;364;22.0
+325;"Mega Tablet Prime";"Smart Home";2479.0;55;15.0
+326;"Smart Laptop Gen3";"Computers";2455.0;483;24.0
+327;"Smart Laptop V2";"Electronics";1303.0;196;9.0
+328;"Super Mouse Plus";"Accessories";792.0;207;1.0
+329;"Pro Tablet Gen3";"Accessories";1061.0;13;23.0
+330;"Fast Watch 2024";"Electronics";642.0;444;18.0
+331;"Gaming Watch V2";"Computers";1152.0;138;27.0
+332;"Slim Mouse 2024";"Smart Home";1049.0;111;23.0
+333;"Gaming Watch X";"Gadgets";1612.0;291;27.0
+334;"Slim Mouse X";"Smart Home";109.0;308;26.0
+335;"Super Monitor X";"Smart Home";2185.0;203;10.0
+336;"Super Laptop Pro";"Computers";376.0;255;0.0
+337;"Mega Tablet X";"Gadgets";2148.0;247;24.0
+338;"Mega Printer Elite";"Gadgets";1056.0;433;29.0
+339;"Eco Watch Plus";"Electronics";1507.0;365;23.0
+340;"Hyper Monitor V2";"Electronics";1458.0;296;4.0
+341;"Fast Keyboard Lite";"Gadgets";1457.0;126;13.0
+342;"Eco Watch Max";"Gadgets";412.0;192;10.0
+343;"Mega Monitor Elite";"Electronics";400.0;168;3.0
+344;"Hyper Watch V2";"Computers";1593.0;25;7.0
+345;"Smart Monitor 2024";"Computers";2389.0;350;16.0
+346;"Hyper Watch Pro";"Gadgets";894.0;242;8.0
+347;"Pro Watch Elite";"Computers";717.0;51;17.0
+348;"Mega Keyboard Pro";"Accessories";1695.0;287;22.0
+349;"Ultra Keyboard Gen3";"Computers";1621.0;210;2.0
+350;"Smart Camera Pro";"Accessories";2337.0;332;13.0
+351;"Smart Phone Max";"Electronics";1322.0;29;18.0
+352;"Pro Tablet 2024";"Smart Home";1879.0;154;6.0
+353;"Ultra Tablet Elite";"Accessories";1577.0;258;18.0
+354;"Mega Watch X";"Computers";869.0;319;2.0
+355;"Super Keyboard Pro";"Accessories";176.0;181;15.0
