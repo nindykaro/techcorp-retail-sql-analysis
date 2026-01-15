@@ -3,7 +3,7 @@ This project is a comprehensive SQL-based data analysis of **TechCorp**, a ficti
 
 The primary objective of this project is to simulate a real-world database environment to answer critical business questions. By executing **complex SQL queries** (including CTEs, Subqueries, Joins, and Aggregations), this project derives actionable insights regarding customer behavior, product performance, and employee efficiency.
 
-### Key Objectives:* 
+### Key Objectives:
 - **Database Management:** Designing a relational schema with proper Primary and Foreign Keys.
 - **Data Cleaning:** Handling raw data imports and ensuring data integrity.  
 - **Business Intelligence:** Solving **8 key business problems** to aid decision-making.
@@ -12,7 +12,9 @@ The primary objective of this project is to simulate a real-world database envir
 
 The database consists of 6 relational tables containing data on sales, inventory, and support.
 
-[EER DIAGRAM HERE]
+![EER DIAGRAM](https://github.com/nindykaro/techcorp-retail-sql-analysis/raw/main/EER%20Diagram.png
+)  
+_diagram1. EER Diagram from MySQL Workbench_
 
 ## Table Dictionary
 | Table Name      | Description                                      | Key Columns                                   |
@@ -142,7 +144,7 @@ LIMIT 1;
 ## Installation & Usage
 1. Clone the Repo:
 ```Bash
-git clone [https://github.com/nindykaro/TechCorp-Retail-Analysis.git](https://github.com/nindykaro/TechCorp-Retail-Analysis.git)
+git clone [https://github.com/nindykaro/techcorp-retail-sql-analysis.git](https://github.com/nindykaro/techcorp-retail-sql-analysis.git)
 ```
 
 2. Import Data:
